@@ -1,0 +1,72 @@
+{
+  "contacts": [
+    {
+      "id": "JDMSA",
+      "name": "Yunus Isah",
+      "photo": "https://static.vecteezy.com/system/resources/thumbnails/000/439/863/small/Basic_Ui__28186_29.jpg",
+      "mobile": "09033248408",
+      "email": "Yunus@gmail.com",
+      "title": "Front End Eng",
+      "company": "TechSpace",
+      "groupId": "1"
+    },
+    {
+      "id": "BYDOL",
+      "name": "Umar Harande",
+      "photo": "https://static.vecteezy.com/system/resources/thumbnails/000/439/863/small/Basic_Ui__28186_29.jpg",
+      "mobile": "8014890281",
+      "email": "umar@gmail.com",
+      "title": "BackEnd Eng",
+      "company": "ZakTech",
+      "groupId": "2"
+    },
+    {
+      "id": "ECFWO",
+      "name": "Bashir Tanimu",
+      "photo": "https://static.vecteezy.com/system/resources/thumbnails/000/439/863/small/Basic_Ui__28186_29.jpg",
+      "mobile": "591932484",
+      "email": "tanimu@gmail.com",
+      "title": "DevOp",
+      "company": "Facebook",
+      "groupId": "3"
+    },
+    {
+      "id": "ILMSR",
+      "name": "Aminu Aliyu",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRbiMjUoOxJCAMB9poSO2wLg34m7OxmyaT-A&usqp=CAU",
+      "mobile": "589402695",
+      "email": "aminu@gmail.com",
+      "title": "Team Lead",
+      "company": "Google",
+      "groupId": "4"
+    },
+    {
+      "name": "Hindu Bashir",
+      "photo": "https://static.vecteezy.com/system/resources/thumbnails/000/439/863/small/Basic_Ui__28186_29.jpg",
+      "mobile": "99877654433",
+      "email": "HinB@yahoo.com",
+      "company": "Bayero University Kano ",
+      "title": "New Generations",
+      "groupId": "4",
+      "id": "fOEi3qi"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "family"
+    },
+    {
+      "id": "2",
+      "name": "Colleague"
+    },
+    {
+      "id": "3",
+      "name": "Service"
+    },
+    {
+      "id": "4",
+      "name": "Social"
+    }
+  ]
+}
